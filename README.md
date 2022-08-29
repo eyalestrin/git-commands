@@ -1,9 +1,9 @@
 ### Common Git commands
-+ Configuring Git identity:
-`git config --global user.name "John Doe"`
-`git config --global user.email johndoe@example.com`
-+ View Git configuration:
-`git config --list --show-origin`
++ Configuring Git identity:  
+`git config --global user.name "John Doe"`  
+`git config --global user.email johndoe@example.com`  
++ View Git configuration:  
+`git config --list --show-origin`  
 + Create new git:
 `mkdir <git_name>`
 + Init a new Git repo:
